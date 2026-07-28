@@ -679,27 +679,27 @@ body {
 }
 
 .card1 {
-  background-image: url("images/township.jpg");
+  background-image: url("../images/township.jpg");
 }
 
 .card2 {
-  background-image: url("images/road.jpg");
+  background-image: url("../images/road.jpg");
 }
 
 .card3 {
-  background-image: url("images/img3.jpg");
+  background-image: url("../images/img3.jpg");
 }
 
 .card4 {
-  background-image: url("images/security.jpg");
+  background-image: url("../images/security.jpg");
 }
 
 .card5 {
-  background-image: url("images/return.jpg");
+  background-image: url("../images/return.jpg");
 }
 
 .card6 {
-  background-image: url("images/img6.jpg");
+  background-image: url("../images/img6.jpg");
 }
 
 .why-card:hover .why-icon {
@@ -1094,28 +1094,28 @@ body {
 /* Images */
 
 .park {
-  background-image: url("images/img8.png");
+  background-image: url("../images/img8.png");
 }
 .pool {
-  background-image: url("images/projet1.jfif");
+  background-image: url("../images/projet1.jfif");
 }
 .gym {
-  background-image: url("images/fitness.avif");
+  background-image: url("../images/fitness.avif");
 }
 .temple {
-  background-image: url("images/img14.jpg");
+  background-image: url("../images/img14.jpg");
 }
 .club {
-  background-image: url("images/club.jpg");
+  background-image: url("../images/club.jpg");
 }
 .security {
-  background-image: url("images/security.jpg");
+  background-image: url("../images/security.jpg");
 }
 .parking {
-  background-image: url("images/parking.jpg");
+  background-image: url("../images/parking.jpg");
 }
 .lighting {
-  background-image: url("images/light.jpg");
+  background-image: url("../images/light.jpg");
 }
 
 /* Responsive */
