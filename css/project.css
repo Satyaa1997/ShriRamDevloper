@@ -210,7 +210,7 @@ Project Banner
     background:
     linear-gradient(rgba(0,0,0,.55),
     rgba(0,0,0,.55)),
-    url("../assets/images/img10.png");
+    url("../images/img10.png");
 
     background-size:cover;
     background-position:center;
@@ -936,7 +936,7 @@ CTA
 
     background:
     linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
-    url("../assets/images/img2.jpg");
+    url("../images/img2.jpg");
 
     background-size:cover;
     background-position:center;
