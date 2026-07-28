@@ -144,7 +144,7 @@ BANNER
 
     background:
     linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-    url("../assets/images/img4.jpg") center/cover;
+    url("../images/img4.jpg") center/cover;
 
     display:flex;
     align-items:center;
@@ -494,17 +494,17 @@ CTA
 IMAGES
 =========================*/
 
-.park{background-image:url("../assets/images/img6.jpg");}
-.pool{background-image:url("../assets/images/img13.jpg");}
-.gym{background-image:url("../assets/images/fitness.avif");}
-.temple{background-image:url("../assets/images/img14.jpg");}
-.security{background-image:url("../assets/images/security.jpg");}
-.clubhouse{background-image:url("../assets/images/club.jpg");}
-.parking{background-image:url("../assets/images/parking.jpg");}
-.roads{background-image:url("../assets/images/road.jpg");}
-.lights{background-image:url("../assets/images/light.jpg");}
-.kids{background-image:url("../assets/images/kids.jpg");}
-.garden{background-image:url("../assets/images/landscape.jpg");}
+.park{background-image:url("../images/img6.jpg");}
+.pool{background-image:url("../images/img13.jpg");}
+.gym{background-image:url("../images/fitness.avif");}
+.temple{background-image:url("../images/img14.jpg");}
+.security{background-image:url("../images/security.jpg");}
+.clubhouse{background-image:url("../images/club.jpg");}
+.parking{background-image:url("../images/parking.jpg");}
+.roads{background-image:url("../images/road.jpg");}
+.lights{background-image:url("../images/light.jpg");}
+.kids{background-image:url("../images/kids.jpg");}
+.garden{background-image:url("../images/landscape.jpg");}
 
 /*=========================
 RESPONSIVE
